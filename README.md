@@ -4,7 +4,7 @@
 	Through refactoring the codes, how to extract, transformation and loading data into tables. 
 	
 2. Results: Provide a bulleted list with four major points.	
-	* Extracted and transform the wikipedia data, movie ratings, movies.
+* Extracted and transform the wikipedia data, movie ratings, movies.
 ![image](https://github.com/Jrobinson3/Movies-ETL/blob/main/wiki_movies.png)
 ![image](https://github.com/Jrobinson3/Movies-ETL/blob/main/movies_ratingins.png?raw=true)
 ![image](https://github.com/Jrobinson3/Movies-ETL/blob/main/movies_df.png)
